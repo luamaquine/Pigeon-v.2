@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 3190b73bfd550b54492642bc4ef962f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6354576871769995068
+    second: ult button spritesheet 94l 97A _0
+  - first:
+      213: -6087117463182350440
+    second: ult button spritesheet 94l 97A _1
+  - first:
+      213: -5347406583483375706
+    second: ult button spritesheet 94l 97A _2
+  - first:
+      213: -5382477182719182654
+    second: ult button spritesheet 94l 97A _3
+  - first:
+      213: -6468303209681503605
+    second: ult button spritesheet 94l 97A _4
+  - first:
+      213: 6157037971317266089
+    second: ult button spritesheet 94l 97A _5
+  - first:
+      213: 306288329644880759
+    second: ult button spritesheet 94l 97A _6
+  - first:
+      213: 4826528875426264770
+    second: ult button spritesheet 94l 97A _7
+  - first:
+      213: -3522440641756804222
+    second: ult button spritesheet 94l 97A _8
+  - first:
+      213: 4863778308270531198
+    second: ult button spritesheet 94l 97A _9
+  - first:
+      213: -7566416525335537073
+    second: ult button spritesheet 94l 97A _10
+  - first:
+      213: 3496358609999200550
+    second: ult button spritesheet 94l 97A _11
+  - first:
+      213: -8961820709751225934
+    second: ult button spritesheet 94l 97A _12
+  - first:
+      213: -91098304427836691
+    second: ult button spritesheet 94l 97A _13
+  - first:
+      213: -964575237385872086
+    second: ult button spritesheet 94l 97A _14
+  - first:
+      213: -1112977979078173291
+    second: ult button spritesheet 94l 97A _15
+  - first:
+      213: 8329232908361042076
+    second: ult button spritesheet 94l 97A _16
+  - first:
+      213: 6568360972075054445
+    second: ult button spritesheet 94l 97A _17
+  - first:
+      213: 8134718812467115138
+    second: ult button spritesheet 94l 97A _18
+  - first:
+      213: -8229203725060877919
+    second: ult button spritesheet 94l 97A _19
+  - first:
+      213: -2874057275315012203
+    second: ult button spritesheet 94l 97A _20
+  - first:
+      213: -5699569650353636962
+    second: ult button spritesheet 94l 97A _21
+  - first:
+      213: 7846032885935243788
+    second: ult button spritesheet 94l 97A _22
+  - first:
+      213: 3232551046836457396
+    second: ult button spritesheet 94l 97A _23
+  - first:
+      213: -8314053274921119059
+    second: ult button spritesheet 94l 97A _24
+  - first:
+      213: 2828082717933106625
+    second: ult button spritesheet 94l 97A _25
+  - first:
+      213: -3718195644073676135
+    second: ult button spritesheet 94l 97A _26
+  - first:
+      213: 5922869682204372992
+    second: ult button spritesheet 94l 97A _27
+  - first:
+      213: 5702997317119743772
+    second: ult button spritesheet 94l 97A _28
+  - first:
+      213: -8572315208117577048
+    second: ult button spritesheet 94l 97A _29
+  - first:
+      213: 4577076684992358837
+    second: ult button spritesheet 94l 97A _30
+  - first:
+      213: -3629464617775231223
+    second: ult button spritesheet 94l 97A _31
+  - first:
+      213: 761236294425175586
+    second: ult button spritesheet 94l 97A _32
+  - first:
+      213: 5044562258273505541
+    second: ult button spritesheet 94l 97A _33
+  - first:
+      213: -2196380697937900040
+    second: ult button spritesheet 94l 97A _34
+  - first:
+      213: 9070856793151394443
+    second: ult button spritesheet 94l 97A _35
+  - first:
+      213: -9092904240654716012
+    second: ult button spritesheet 94l 97A _36
+  - first:
+      213: 209338611391738447
+    second: ult button spritesheet 94l 97A _37
+  - first:
+      213: 7039278644373329673
+    second: ult button spritesheet 94l 97A _38
+  - first:
+      213: 5310816410215657454
+    second: ult button spritesheet 94l 97A _39
+  - first:
+      213: -7996774862552551468
+    second: ult button spritesheet 94l 97A _40
+  - first:
+      213: 7423327920550775628
+    second: ult button spritesheet 94l 97A _41
+  - first:
+      213: 7683560993165558541
+    second: ult button spritesheet 94l 97A _42
+  - first:
+      213: -2069106368929001880
+    second: ult button spritesheet 94l 97A _43
+  - first:
+      213: 1749104516816693411
+    second: ult button spritesheet 94l 97A _44
+  - first:
+      213: -901922890475708343
+    second: ult button spritesheet 94l 97A _45
+  - first:
+      213: 3013699088937884328
+    second: ult button spritesheet 94l 97A _46
+  - first:
+      213: -2196157370029530126
+    second: ult button spritesheet 94l 97A _47
+  - first:
+      213: -5518124996473561747
+    second: ult button spritesheet 94l 97A _48
+  - first:
+      213: -4770958235057823818
+    second: ult button spritesheet 94l 97A _49
+  - first:
+      213: 768258818693061098
+    second: ult button spritesheet 94l 97A _50
+  - first:
+      213: -2143642125765413639
+    second: ult button spritesheet 94l 97A _51
+  - first:
+      213: -8629853394502812150
+    second: ult button spritesheet 94l 97A _52
+  - first:
+      213: -4867565268219335797
+    second: ult button spritesheet 94l 97A _53
+  - first:
+      213: 546827636823366164
+    second: ult button spritesheet 94l 97A _54
+  - first:
+      213: 4393305176890968219
+    second: ult button spritesheet 94l 97A _55
+  - first:
+      213: -4684122199149929060
+    second: ult button spritesheet 94l 97A _56
+  - first:
+      213: -8463895778744971105
+    second: ult button spritesheet 94l 97A _57
+  - first:
+      213: 3610947256423718356
+    second: ult button spritesheet 94l 97A _58
+  - first:
+      213: 7713388893233315643
+    second: ult button spritesheet 94l 97A _59
+  - first:
+      213: -3932103593393841552
+    second: ult button spritesheet 94l 97A _60
+  - first:
+      213: 5739813811878374229
+    second: ult button spritesheet 94l 97A _61
+  - first:
+      213: -7749872563354190729
+    second: ult button spritesheet 94l 97A _62
+  - first:
+      213: -2052995558533069029
+    second: ult button spritesheet 94l 97A _63
+  - first:
+      213: 4427965543319884052
+    second: ult button spritesheet 94l 97A _64
+  - first:
+      213: -6260191078498726981
+    second: ult button spritesheet 94l 97A _65
+  - first:
+      213: 3377660860899511449
+    second: ult button spritesheet 94l 97A _66
+  - first:
+      213: -5690156150540109385
+    second: ult button spritesheet 94l 97A _67
+  - first:
+      213: 3021871592209717061
+    second: ult button spritesheet 94l 97A _68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 94
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c88c3cc00200d7a0800000000000000
+      internalID: -6354576871769995068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 291
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89760fc0be6368ba0800000000000000
+      internalID: -6087117463182350440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 291
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af53e94b023ac5b0800000000000000
+      internalID: -5347406583483375706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 291
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8b06815899d45b0800000000000000
+      internalID: -5382477182719182654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 291
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3a675088fb36a0800000000000000
+      internalID: -6468303209681503605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a615fcd961327550800000000000000
+      internalID: 6157037971317266089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 194
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b45fec97204400800000000000000
+      internalID: 306288329644880759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 194
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b2fda0764bf240800000000000000
+      internalID: 4826528875426264770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 194
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bcfa526e6cd1fc0800000000000000
+      internalID: -3522440641756804222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 194
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7227ba1a9c9f7340800000000000000
+      internalID: 4863778308270531198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4adab04240bef690800000000000000
+      internalID: -7566416525335537073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 97
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621816c91af858030800000000000000
+      internalID: 3496358609999200550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 97
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b10a86db8731a380800000000000000
+      internalID: -8961820709751225934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 97
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea30f4239a5cbef0800000000000000
+      internalID: -91098304427836691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 97
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1a70aee32d92f0800000000000000
+      internalID: -964575237385872086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ult button spritesheet 94l 97A _15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d9632cc68ed80f0800000000000000
+      internalID: -1112977979078173291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
