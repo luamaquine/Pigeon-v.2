@@ -18,6 +18,7 @@ public class PlayerLife : LifeBehaviour
     
     public override void TakeDamage(int damageAmount)
     {
+        FindObjectOfType<AudioManager>().Play("PlayerHit"); 
         life -= damageAmount;
         if (life <= 0)
         {
@@ -36,7 +37,9 @@ public class PlayerLife : LifeBehaviour
 
     public override void Death()
     {
+        FindObjectOfType<AudioManager>().Play("PlayerDie");
         gameObject.GetComponent<PlayerMove>().enabled = false;
         gameObject.GetComponent<PlayerSkills>().enabled = false;
+
     }
 }

@@ -16,6 +16,7 @@ public abstract class LifeBehaviour : MonoBehaviour
 
     public virtual void Death()
     {
+        FindObjectOfType<AudioManager>().Play("EnemyDie");
         Destroy(gameObject);
     }
 }

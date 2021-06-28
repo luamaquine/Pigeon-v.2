@@ -13,7 +13,6 @@ public class CanFlash : MonoBehaviour
     {
         if(!other.CompareTag("Check") || other.CompareTag("Hole"))
         {
-            print(other.tag);
             canFlash = false;
         }
     }
@@ -22,7 +21,6 @@ public class CanFlash : MonoBehaviour
     {
         if(!other.CompareTag("Check") || other.CompareTag("Hole"))
         {
-            print(other.tag);
             canFlash = true;
         }
     }

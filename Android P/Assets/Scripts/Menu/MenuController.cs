@@ -9,7 +9,7 @@ public class MenuController : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("TestGen");
+        SceneManager.LoadScene("MainScene");
     }
 
     public void Credits()

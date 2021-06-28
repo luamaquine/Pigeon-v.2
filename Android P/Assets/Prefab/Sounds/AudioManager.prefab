@@ -45,8 +45,38 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: Theme
-    clip: {fileID: 0}
-    volume: 0.5
+    clip: {fileID: 8300000, guid: 8e150c023f4b3e14f8ad2b7a3b2bffee, type: 3}
+    volume: 0.302
     pitch: 1
     loop: 1
+    source: {fileID: 0}
+  - name: PlayerDie
+    clip: {fileID: 8300000, guid: 92aee70358b797646a482fa8a6eecbc6, type: 3}
+    volume: 0.437
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: PlayerGun
+    clip: {fileID: 8300000, guid: 333a52c053553df41b31c9a61a21ee6b, type: 3}
+    volume: 0.219
+    pitch: 0.43
+    loop: 0
+    source: {fileID: 0}
+  - name: Teleport
+    clip: {fileID: 8300000, guid: 6a8c66c2ef8896a4991af7cf2568d36e, type: 3}
+    volume: 0.437
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Ultimate
+    clip: {fileID: 8300000, guid: 208a0d598021f6f4ca5b46c810be4c9d, type: 3}
+    volume: 0.437
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: EnemyDie
+    clip: {fileID: 8300000, guid: 3da2fd7c65617734396c8df18710b2b5, type: 3}
+    volume: 0.437
+    pitch: 1
+    loop: 0
     source: {fileID: 0}

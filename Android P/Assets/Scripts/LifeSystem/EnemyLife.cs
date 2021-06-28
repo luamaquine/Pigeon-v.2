@@ -31,5 +31,6 @@ public class EnemyLife : LifeBehaviour
     {
         life = 0;
         TakeDamage(10);
+        FindObjectOfType<AudioManager>().Play("EnemyDie");
     }
 }
