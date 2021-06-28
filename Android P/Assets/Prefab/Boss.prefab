@@ -220,7 +220,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
-  m_SortingLayerID: 979702629
+  m_SortingLayerID: -1634223125
   m_SortingOrder: 10
   m_TargetDisplay: 0
 --- !u!114 &5267092893527421710
@@ -1860,8 +1860,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1202073435
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -1945,7 +1945,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 979702629
+  m_SortingLayerID: -1203591411
   m_SortingLayer: 2
   m_SortingOrder: 5
   m_Sprite: {fileID: -5945187419608056272, guid: 58aa870bc329bd7449fe741d534c6a9b, type: 3}
@@ -2282,7 +2282,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 979702629
+  m_SortingLayerID: -1203591411
   m_SortingLayer: 2
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 2ed446018c8c10e49b63296743ffab54, type: 3}
@@ -2491,7 +2491,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 979702629
+  m_SortingLayerID: -1203591411
   m_SortingLayer: 2
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: e2c2ca7b76fe2d2459423ed46d5fbdc6, type: 3}
@@ -2635,6 +2635,14 @@ PrefabInstance:
     - target: {fileID: 1316376812583822845, guid: 3a14de81831c34c4392b2f1ccfa9d5bd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1316376812583822846, guid: 3a14de81831c34c4392b2f1ccfa9d5bd, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1316376812583822846, guid: 3a14de81831c34c4392b2f1ccfa9d5bd, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -1203591411
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1316376812583822844, guid: 3a14de81831c34c4392b2f1ccfa9d5bd, type: 3}

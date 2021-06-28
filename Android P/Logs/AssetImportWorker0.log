@@ -1,246 +1,45 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19043.1052; Version 2009; 64bit' Language: 'pt' Physical Memory: 16275 MB
+OS: 'Windows 10 Home Single Language; OS build 18363.1556; Version 1909; 64bit' Language: 'pt' Physical Memory: 8086 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+C:\Program Files\2020.3.6f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/ludus/Desktop/Nova pasta/Android P
+C:/Projetos/Pigeon-v.2/Android P
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53092
-Successfully changed project path to: C:/Users/ludus/Desktop/Nova pasta/Android P
-C:/Users/ludus/Desktop/Nova pasta/Android P
+59187
+Successfully changed project path to: C:/Projetos/Pigeon-v.2/Android P
+C:/Projetos/Pigeon-v.2/Android P
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 255.83 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 459.66 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.6f1 (338bb68529b2)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/ludus/Desktop/Nova pasta/Android P/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Projetos/Pigeon-v.2/Android P/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
     Vendor:   
-    VRAM:     6052 MB
-    Driver:   27.21.14.6156
+    VRAM:     2009 MB
+    Driver:   25.21.14.2531
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Mono path[0] = 'C:/Program Files/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008812 seconds.
+Register platform support module: C:/Program Files/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014873 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 247.14 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 256.91 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  8.643 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.004258 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 240.54 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.537 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
-Refreshing native plugins compatible for Editor in 1.51 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1988 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 91.8 MB.
-System memory in use after: 91.9 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2421.
-Total: 6.866300 ms (FindLiveObjects: 0.528600 ms CreateObjectMapping: 0.284700 ms MarkObjects: 5.813100 ms  DeleteObjects: 0.236100 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(942c6320927ad3c44a7a7537e3dec8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(942c6320927ad3c44a7a7537e3dec8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e6c7f53c7b751aa7a920b37c84c5bce') in 0.036418 seconds
-  Import took 0.047837 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000981 seconds.
-  path: Assets/Scenes/tests
-  artifactKey: Guid(f9e71d07fee94fc4a81bfd8a6a218e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/tests using Guid(f9e71d07fee94fc4a81bfd8a6a218e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '326cefa3ebfc5352a7098b8ff459147b') in 0.030660 seconds
-  Import took 0.042592 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 44.509413 seconds.
-  path: Assets/Scenes/Menu.unity
-  artifactKey: Guid(8bbe438542edf0b4e9c935f2f6e981db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Menu.unity using Guid(8bbe438542edf0b4e9c935f2f6e981db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f3ce8b529af5b8ad27d6ca5ee0556a') in 0.057531 seconds
-  Import took 0.071271 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.58 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 51.4 MB.
-System memory in use after: 51.5 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2421.
-Total: 2.691100 ms (FindLiveObjects: 0.169600 ms CreateObjectMapping: 0.069000 ms MarkObjects: 2.429600 ms  DeleteObjects: 0.021800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 401.988376 seconds.
-  path: Assets/Scenes/tests/TestGen.unity
-  artifactKey: Guid(2844bbe99fdc32240b03066669300e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/tests/TestGen.unity using Guid(2844bbe99fdc32240b03066669300e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69f7e4e363b75a22f194baf7b309f4e') in 0.013535 seconds
-  Import took 0.018797 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.51 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 51.4 MB.
-System memory in use after: 51.5 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2421.
-Total: 2.773400 ms (FindLiveObjects: 0.209800 ms CreateObjectMapping: 0.112300 ms MarkObjects: 2.429500 ms  DeleteObjects: 0.020700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000901 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invalid AssetDatabase path: /Editor/EditorResources/cm_logo_sm.png. Use path relative to the project folder.
-0x00007ff656f613fc (Unity) StackWalker::GetCurrentCallstack
-0x00007ff656f697d9 (Unity) StackWalker::ShowCallstack
-0x00007ff65844764c (Unity) GetStacktrace
-0x00007ff65953d333 (Unity) DebugStringToFile
-0x00007ff658d37ae3 (Unity) ConvertToUnityPathAndValidate
-0x00007ff658c68383 (Unity) AssetDatabase_CUSTOM_LoadAssetAtPath
-0x000001e17f69a2ed (Mono JIT Code) (wrapper managed-to-native) UnityEditor.AssetDatabase:LoadAssetAtPath (string,System.Type)
-0x000001e17f69a1fb (Mono JIT Code) UnityEditor.AssetDatabase:LoadAssetAtPath<T_REF> (string)
-0x000001e17f698fb3 (Mono JIT Code) [CinemachineSettings.cs:205] Cinemachine.Editor.CinemachineSettings:get_CinemachineLogoTexture () 
-0x000001e17f6987db (Mono JIT Code) [CinemachineSettings.cs:237] Cinemachine.Editor.CinemachineSettings:.cctor () 
-0x000001e17f69824d (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
-0x00007ffdada8e630 (mono-2.0-bdwgc) [mini-runtime.c:2812] mono_jit_runtime_invoke 
-0x00007ffdada12ac2 (mono-2.0-bdwgc) [object.c:2921] do_runtime_invoke 
-0x00007ffdada1b1dc (mono-2.0-bdwgc) [object.c:477] mono_runtime_class_init_full 
-0x00007ffdada89b5d (mono-2.0-bdwgc) [mini.c:4369] mono_jit_compile_method_inner 
-0x00007ffdada8dae2 (mono-2.0-bdwgc) [mini-runtime.c:2133] mono_jit_compile_method_with_opt 
-0x00007ffdadb69da6 (mono-2.0-bdwgc) [mini-trampolines.c:716] common_call_trampoline 
-0x00007ffdadb6bdc4 (mono-2.0-bdwgc) [mini-trampolines.c:848] mono_magic_trampoline 
-0x000001dfcd4a03a3 ((<unknown>)) 
-0x000001e17f69849b (Mono JIT Code) [CinemachineColliderPrefs.cs:62] Cinemachine.CinemachineColliderPrefs:.cctor () 
-0x000001e17f69824d (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
-0x00007ffdada8e630 (mono-2.0-bdwgc) [mini-runtime.c:2812] mono_jit_runtime_invoke 
-0x00007ffdada12ac2 (mono-2.0-bdwgc) [object.c:2921] do_runtime_invoke 
-0x00007ffdada1b1dc (mono-2.0-bdwgc) [object.c:477] mono_runtime_class_init_full 
-0x00007ffdad9c8d3e (mono-2.0-bdwgc) [icall.c:990] ves_icall_System_Runtime_CompilerServices_RuntimeHelpers_RunClassConstructor 
-0x000001e17f697de0 (Mono JIT Code) (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (intptr)
-0x000001e17f697ccb (Mono JIT Code) System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-0x000001e17f697b43 (Mono JIT Code) UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-0x000001dfcd21bca0 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_object (object,intptr,intptr,intptr)
-0x00007ffdada8e630 (mono-2.0-bdwgc) [mini-runtime.c:2812] mono_jit_runtime_invoke 
-0x00007ffdada12ac2 (mono-2.0-bdwgc) [object.c:2921] do_runtime_invoke 
-0x00007ffdada1bb1f (mono-2.0-bdwgc) [object.c:2968] mono_runtime_invoke 
-0x00007ff656ddab04 (Unity) scripting_method_invoke
-0x00007ff656dd3455 (Unity) ScriptingInvocation::Invoke
-0x00007ff656dcc345 (Unity) ScriptingInvocation::Invoke<void>
-0x00007ff655465f7b (Unity) Scripting::UnityEditor::EditorAssembliesProxy::ProcessInitializeOnLoadAttributes
-0x00007ff656da0e95 (Unity) MonoManager::SetupLoadedEditorAssemblies
-0x00007ff656d9818c (Unity) MonoManager::EndReloadAssembly
-0x00007ff656d9f079 (Unity) MonoManager::ReloadAssembly
-0x00007ff65814cd51 (Unity) LoadDomainAndUserAssemblies
-0x00007ff65814d1fe (Unity) LoadUserAssemblies
-0x00007ff658582308 (Unity) <lambda_79a3ebc38cb5166d44d10a16a21fca24>::operator()
-0x00007ff65864d662 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
-0x00007ff65864f7c0 (Unity) asio::detail::win_iocp_io_service::do_one
-0x00007ff658652f4e (Unity) asio::io_service::run
-0x00007ff6585c8fd0 (Unity) RunAssetImportWorkerClientV2
-0x00007ff6585c9020 (Unity) RunAssetImporterV2
-0x00007ff657ad4266 (Unity) Application::InitializeProject
-0x00007ff658454bb2 (Unity) WinMain
-0x00007ff65a2d2a36 (Unity) __scrt_common_main_seh
-0x00007ffe02337034 (KERNEL32) BaseThreadInitThunk
-0x00007ffe030c2651 (ntdll) RtlUserThreadStart
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.316 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2114 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.0 MB.
-System memory in use after: 95.1 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2570.
-Total: 2.209300 ms (FindLiveObjects: 0.218600 ms CreateObjectMapping: 0.095000 ms MarkObjects: 1.847100 ms  DeleteObjects: 0.046900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000994 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.831 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2115 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.1 MB.
-System memory in use after: 95.2 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2575.
-Total: 1.923700 ms (FindLiveObjects: 0.175300 ms CreateObjectMapping: 0.073200 ms MarkObjects: 1.632300 ms  DeleteObjects: 0.041900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000956 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.806 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2114 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.1 MB.
-System memory in use after: 95.2 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2579.
-Total: 2.475000 ms (FindLiveObjects: 0.280300 ms CreateObjectMapping: 0.078800 ms MarkObjects: 2.065500 ms  DeleteObjects: 0.048900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file

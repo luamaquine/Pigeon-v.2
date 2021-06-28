@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Check
+  - Bullet
+  - Barrier
+  - Hole
+  - Wall
+  - Enemy
+  - Aim
   layers:
   - Default
   - TransparentFX
@@ -40,4 +47,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1202073435
+    locked: 0
+  - name: Actor
+    uniqueID: 3091375885
+    locked: 0
+  - name: UI
+    uniqueID: 2660744171
     locked: 0
